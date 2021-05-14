@@ -1,0 +1,4 @@
+
+private abstract class Private {
+
+}

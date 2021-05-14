@@ -1,0 +1,4 @@
+
+final abstract class Final {
+
+}
